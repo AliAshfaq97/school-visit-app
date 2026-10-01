@@ -1,0 +1,13 @@
+{
+  "name": "school-visit-app",
+  "version": "1.0.0",
+  "description": "School visit tracking app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7"
+  }
+}
